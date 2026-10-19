@@ -2,25 +2,25 @@
 
 :launcher
 cls
-ECHO [1;37m[44mษอออออออออออออออออออออออออออออออออออออออออออออออออออออป
-ECHO บ  Wing Commander I & II (W.C.A.T.) Launcher          บ
-ECHO บ                                                     บ
-ECHO ฬอ Wing Commander ออออออออออออออออออออออออออออออออออออน
-ECHO บ  [1] Run Wing Commander W.C.A.T. launcher           บ
-ECHO บ  [2] Run Wing Commander                             บ
-ECHO บ  [3] Run Wing Commander: Secret Missions 2          บ
-ECHO บ                                                     บ
-ECHO ฬอ Wing Commander II: Vengeance of the Kilrathi ออออออน
-ECHO บ  [4] Run Wing Commander II W.C.A.T launcher         บ
-ECHO บ  [5] Run Wing Commander II                          บ
-ECHO บ  [6] Run Wing Commander II: Special Operations 1    บ
-ECHO บ  [7] Run Wing Commander II: Special Operations 2    บ
-ECHO บ                                                     บ
-ECHO ฬอออออออออออออออออออออออออออออออออออออออออออออออออออออน
-ECHO บ  [8] Return to DOSBox                               บ
-ECHO บ  [9] Close DOSBox                                   บ
-ECHO บ                                                     บ
-ECHO ศอออออออออออออออออออออออออออออออออออออ DarkenedRoom ออผ[0m
+ECHO [1;37m[44mรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยป
+ECHO ยบ  Wing Commander I & II (W.C.A.T.) Launcher          ยบ
+ECHO ยบ                                                     ยบ
+ECHO รร Wing Commander รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยน
+ECHO ยบ  [1] Run Wing Commander W.C.A.T. launcher           ยบ
+ECHO ยบ  [2] Run Wing Commander / Secret Missions 1         ยบ
+ECHO ยบ  [3] Run Wing Commander: Secret Missions 2          ยบ
+ECHO ยบ                                                     ยบ
+ECHO รร Wing Commander II: Vengeance of the Kilrathi รรรรรรยน
+ECHO ยบ  [4] Run Wing Commander II W.C.A.T launcher         ยบ
+ECHO ยบ  [5] Run Wing Commander II                          ยบ
+ECHO ยบ  [6] Run Wing Commander II: Special Operations 1    ยบ
+ECHO ยบ  [7] Run Wing Commander II: Special Operations 2    ยบ
+ECHO ยบ                                                     ยบ
+ECHO รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยน
+ECHO ยบ  [8] Return to DOSBox                               ยบ
+ECHO ยบ  [9] Close DOSBox                                   ยบ
+ECHO ยบ                                                     ยบ
+ECHO รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรร DarkenedRoom รรยผ[0m
 
 choice /c123456789 /s Select an option? [1-9]: /n 
 if errorlevel 9 goto bye

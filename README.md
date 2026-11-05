@@ -6,4 +6,5 @@ A collection of DOSBox Staging configurations and DOSBox Staging compatible laun
 - Aces Over Europe (Dynamix)
 - F-22 Lightning II (NovaLogic)
 - LHX Attack Chopper (Electronic Arts)
-- Wing Commander 1+2 (Origin)
+- Wing Commander I+II (Origin)
+- Wing Commander IV (Origin)

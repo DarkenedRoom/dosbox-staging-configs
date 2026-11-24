@@ -9,6 +9,7 @@ A collection of DOSBox Staging configurations and DOSBox Staging compatible laun
 - MiG-29: Deadly Adversary of Falcon 3.0 (Spectrum Holobyte)
 - Navy Strike (Rowan)
 - Pacific Strike (Origin)
+- SU-27 Flanker / SU-27 Flanker: Squadron Commander's Edition (Flying Legends / Eagle Dynamics)
 - Wing Commander I+II (Origin)
 - Wing Commander IV (Origin)
 
